@@ -1,3 +1,3 @@
 name: SimpleGod
-main: com.bukkit.silence.simplegod.SimpleGod
-version: 1.1
+main: net.immortal_forces.silence.plugin.simplegod.SimpleGod
+version: 1.2

@@ -19,7 +19,7 @@
  * MA 02111-1307, USA.
  */
 
-package com.bukkit.silence.simplegod;
+package net.immortal_forces.silence.plugin.simplegod;
 
 import java.util.TimerTask;
         
