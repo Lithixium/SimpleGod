@@ -26,7 +26,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class SimpleGod extends JavaPlugin
+public class SimpleGod
 { 
   private Timer m_Timer = new Timer(true);
   
